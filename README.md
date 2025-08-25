@@ -2,8 +2,14 @@
 MSc project files and source code etc
 
 # NoteBooks
-- DissertationProject.ipynb - this is my final submission and main source code. 
-- Test.ipynb - this is for testing different approaches and methods
+- **MSc ai.ipynb** - this is my final submission and main source code. 
+
+# Playground notebooks
+used these testing and trying different approaches and methods
+
+- Test.ipynb
+- Test2.ipynb
+- DissertationProject.ipynb
 
 
 # DataSets
