@@ -5,7 +5,7 @@ MSc project files and source code etc
 - **MSc ai.ipynb** - this is my final submission and main source code. 
 
 # Playground notebooks
-used these notebooks for testing and trying different approaches and methods
+I used these notebooks for testing and trying different approaches and methods
 
 - Test.ipynb
 - Test2.ipynb
@@ -13,4 +13,4 @@ used these notebooks for testing and trying different approaches and methods
 
 
 # DataSets
-Test and training Data used In The 'Data' Folder.
+All Test and training Datasets used are in The 'Data' Folder.
