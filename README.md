@@ -5,7 +5,7 @@ MSc project files and source code etc
 - **MSc ai.ipynb** - this is my final submission and main source code. 
 
 # Playground notebooks
-used these testing and trying different approaches and methods
+used these notebooks for testing and trying different approaches and methods
 
 - Test.ipynb
 - Test2.ipynb
