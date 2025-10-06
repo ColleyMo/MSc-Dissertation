@@ -1,4 +1,5 @@
 # MSc-Dissertation
+# Title: AI-Driven Defect Detection in Composite Materials Using Thermographic Data 
 MSc project files and source code etc
 
 # NoteBooks
