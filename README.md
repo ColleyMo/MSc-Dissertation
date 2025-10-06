@@ -1,6 +1,7 @@
 # MSc-Dissertation
 ### Title: AI-Driven Defect Detection in Composite Materials Using Thermographic Data 
-MSc project files and source code etc
+
+- this Repo includes My MSc project files and source code etc
 
 # NoteBooks
 - **MSc ai.ipynb** - this is my final submission and main source code. 
